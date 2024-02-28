@@ -11,11 +11,12 @@
     "express": "^4",
     "@sap/cds-hana": "^2",
     "@sap/xssec": "^3",
-    "passport": "^0"
+    "passport": "^0",
+    "@sap/cds-dk": "^7"
   },
   "devDependencies": {
     "@cap-js/sqlite": "^1",
-    "@sap/cds-dk": "^7",
+  
     "@sap/ux-specification": "^1.108.14"
   },
   "scripts": {
